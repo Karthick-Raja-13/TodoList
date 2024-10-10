@@ -1,0 +1,40 @@
+#item{
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: gray;
+    display: inline-block;
+    height: 50px;
+    width: 90%;
+    color: white;
+    font-size:20px;
+    border-radius: 20px;
+}
+#item:hover{
+    list-style-type: none;
+        margin: 5px;
+        padding: 5px;
+        text-align: center;
+        background-color: black;
+        display: inline-block;
+        height: 45px;
+        width: 90%;
+        color: white;
+        font-size: 25px;
+        border-radius: 20px;
+}
+
+#message{
+        margin: 5px;
+        padding: 5px;
+        text-align: center;
+        background-color: gray;
+        display: inline-block;
+        height: 30px;
+        width: 90%;
+        color: white;
+        font-size: 20px;
+        border-radius: 20px;
+
+}

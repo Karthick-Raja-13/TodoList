@@ -1,0 +1,34 @@
+div input{
+    height: 50px;
+    width: 400px;
+    margin: 5px;
+    text-align: center;
+    outline: 0px;
+    border-bottom: 1px solid black;
+    border-top:0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+div button {
+    width: 90px;
+    height: 50px;
+    background-color: rgb(0, 152, 253);
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+    margin-left: 30px;
+}
+div button:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+div #status {
+    width: 300px;
+    height: 35px;
+    margin: 10px;
+    margin-right: 30px;
+    border-radius: 5px;
+    outline: 0px;
+    text-align: center;
+}
